@@ -7,6 +7,7 @@ Este projeto foi desenvolvido como parte do programa de capacitação **EmbarcaT
 
 ### 📖 Descrição
 Este projeto implementa um **servidor HTTP** utilizando o **Raspberry Pi Pico W** com conectividade Wi-Fi (**CYW43**). O sistema permite o envio de alertas por meio de dois botões, que são exibidos em uma página web acessível via rede local.
+![Captura de tela de 2025-02-19 16-19-21](https://github.com/user-attachments/assets/b75887d7-ea70-44a9-b175-27e775f78641)
 
 ### 🔹 Funcionalidades
 ✅ Conexão Wi-Fi com autenticação WPA2.  
@@ -21,6 +22,7 @@ Este projeto implementa um **servidor HTTP** utilizando o **Raspberry Pi Pico W*
   - **Botão Moderado**: GPIO5
   - **Botão Grave**: GPIO6
 - **LED RGB para indicação visual:**
+
   - **Vermelho**: GPIO13
   - **Verde**: GPIO11
   - **Azul**: GPIO12
