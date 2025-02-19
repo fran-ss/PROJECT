@@ -85,7 +85,7 @@ pico_add_extra_outputs(project)
 ##📸 Galeria de Imagens
 - Aqui você pode visualizar as imagens do desenvolvimento e funcionamento do Projeto: Servidor HTTP com Raspberry Pi Pico, criado durante a residência EmbarcaTech - Residência Tecnológica em Sistemas Embarcados.
 - 
-####🔹 Imagens do Projeto
+#### 🔹 Imagens do Projeto
 ![Captura de tela de 2025-02-19 13-17-06](https://github.com/user-attachments/assets/89925cf9-f704-45ca-b59f-6d103aa5ba28)
 ![Captura de tela de 2025-02-19 13-16-32](https://github.com/user-attachments/assets/708825da-17a0-4256-95ea-1a026a85043f)
 
