@@ -4,6 +4,7 @@
 Este projeto foi desenvolvido como parte do programa de capacitação **EmbarcaTech - Residência Tecnológica em Sistemas Embarcados**. O objetivo foi construir um projeto inovador dentro da área de Sistemas Embarcados, aplicando conceitos de Internet das Coisas (IoT). O EmbarcaTech visa capacitar profissionais em tecnologias de Sistemas Embarcados, aliando teoria e prática para impulsionar a inovação e suprir a alta demanda do mercado.
 
 ## 📌 Projeto: Servidor HTTP com Raspberry Pi Pico
+## AlertaPi: Sistema de Monitoramento e Notificação via HTTP
 
 ### 📖 Descrição
 Este projeto implementa um **servidor HTTP** utilizando o **Raspberry Pi Pico W** com conectividade Wi-Fi (**CYW43**). O sistema permite o envio de alertas por meio de dois botões, que são exibidos em uma página web acessível via rede local.
